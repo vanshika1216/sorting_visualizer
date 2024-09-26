@@ -1,0 +1,3 @@
+# Sorting Visualizer
+
+The Sorting Visualizer is a tool that visually showcases various sorting algorithms. Inspired by a tutorial I watched on YouTube, where the instructor set up the project and implemented only Bubble Sort, I was motivated to code the remaining algorithms myself. This project, born from my fascination with Data Structures and Algorithms (DSA), aims to make learning about sorting techniques engaging and intuitive. It was a fun and educational experience!
